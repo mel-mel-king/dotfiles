@@ -1,3 +1,5 @@
+#!/usr/bin/bash
+
 if [[ "$SPIN" = 1 ]]
 then
   # Only run nested steps in Spin + shopify/shopify workspaces.
